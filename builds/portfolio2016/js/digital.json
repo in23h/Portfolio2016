@@ -1,0 +1,213 @@
+[
+	{
+		"name": "Banners, Beauty Shots, Promos, Skins, etc.",
+		"description": "Some examples of the many banners, promotional banners, beauty shots, website skins, pack fronts, etc.",
+		"year": "2013~2016",
+		"category": "design",
+		"client": ["BANDAI NAMCO Entertainment"],
+		"URL": null,
+		"skills": ["Photoshop", "Illustrator", "inDesign", "Flash"],
+		"image": null,
+		"content": [
+			{
+				"name": "Tekken 7 Twitch live stream promo",
+				"image": "images/digital/Twitch_Promo_TK7_June.jpg",
+				"thumb": "images/digital/Twitch_Promo_TK7_June_tn.jpg",
+				"description": "Tekken 7 Twitch live stream promo for social sites."
+			},
+			{
+				"name": "God Eater 2 Rage Burst End Slate",
+				"image": "images/digital/GE2RB_Story_Endslate_EN.jpg",
+				"thumb": "images/digital/GE2RB_Story_Endslate_EN.jpg",
+				"description": "An end slate used in trailers for God Eater 2 Rage Burst."
+			},
+			{
+				"name": "God Eater Resurrection + God Eater 2 Rage Burst end slate",
+				"image": "images/digital/GER_GE2RB_Story_Endslate_EN.jpg",
+				"thumb": "images/digital/GER_GE2RB_Story_Endslate_EN.jpg",
+				"description": "An end slate used in trailers for God Eater Resurrection + God Eater 2 Rage Burst."
+			},
+			{
+				"name": "God Eater Resurrection splash screen",
+				"image": "images/digital/GER_splashscreen_BNEA.jpg",
+				"thumb": "images/digital/GER_splashscreen_BNEA.jpg",
+				"description": "This is the splash screen that appeared at the end of the demo of God Eater Resurrection."
+			},
+			{
+				"name": "JoJo's Bizarre Adventure Eyes of Heaven end slate",
+				"image": "images/digital/JoJos_endslate_EN.jpg",
+				"thumb": "images/digital/JoJos_endslate_EN.jpg",
+				"description": "End slate used for JoJo's Bizarre Adventure Eyes of Heaven trailers."
+			},
+			{
+				"name": "Lords of the Fallen beauty shot",
+				"image": "images/digital/LotF_Limited_J7m_M_1920x1080.jpg",
+				"thumb": "images/digital/LotF_Limited_J7m_M_1920x1080.jpg",
+				"description": "Lords of the Fallen beauty shot to promote the limited edition."
+			},
+			{
+				"name": "MotoGP 15 Beauty Shot",
+				"image": "images/digital/MotoGP15_BeautyShot_EN.jpg",
+				"thumb": "images/digital/MotoGP15_BeautyShot_EN.jpg",
+				"description": "Beauty shot to promote the MotoGP 15 pre-order bonus."
+			},
+			{
+				"name": "BANDAI NAMCO Games Halloween Bash at Nintendo World Store Promo",
+				"image": "images/digital/NOA_Halloween-Bash.jpg",
+				"thumb": "images/digital/NOA_Halloween-Bash.jpg",
+				"description": "Beaut shot to promote the Halloween Bash at the Nintendo World Store."
+			},
+			{
+				"name": "Naruto Storm 3 Full Burst Facebook promo",
+				"image": "images/digital/NS3FB-viz-buy-now.jpg",
+				"thumb": "images/digital/NS3FB-viz-buy-now_tn.jpg",
+				"description": "Facebook promo image for Naruto Storm 3 Full Burst."
+			},
+			{
+				"name": "Naruto Storm 4 Best Buy TV ad",
+				"image": "images/digital/NSUNS4_BB_TV_Ad_Available_Now.jpg",
+				"thumb": "images/digital/NSUNS4_BB_TV_Ad_Available_Now.jpg",
+				"description": "A promo image for Naruto Storm 4 used in a print Best Buy ad that \"appeared\" on a TV within the ad."
+			},
+			{
+				"name": "Naruto Storm 4 GameStop Pre-Order poster beauty shot",
+				"image": "images/digital/NSUNS4_GS_Poster_Preorder.jpg",
+				"thumb": "images/digital/NSUNS4_GS_Poster_Preorder.jpg",
+				"description": "A beauty shot to promote the exclusive GameStop poster with pre-order of Naruto Storm 4."
+			},
+			{
+				"name": "Naruto Storm 4 GameStop Pre-Order DLC beauty shot",
+				"image": "images/digital/NSUNS4_Mockup_Preorder.jpg",
+				"thumb": "images/digital/NSUNS4_Mockup_Preorder.jpg",
+				"description": "A beauty shot to promote the free DLC with pre-order of Naruto Storm 4."
+			},
+			{
+				"name": "Naruto Ultimate Shippuden Ninja Storm 4 GameStop Beauty Shot",
+				"image": "images/digital/NSUNS4_Mockup_Preorder_GS2.jpg",
+				"thumb": "images/digital/NSUNS4_Mockup_Preorder_GS2.jpg",
+				"description": "A beauty shot to promote the pre-order bonuses and exclusive GameStop poster for Naruto Storm 4."
+			},
+			{
+				"name": "Naruto Storm 4 social banners",
+				"image": "images/digital/NSUNS4_social.jpg",
+				"thumb": "images/digital/NSUNS4_social_tn.jpg",
+				"description": "Social banners to promote Naruto Storm 4 on Facebook, Twitter, Youtube and Tumblr."
+			},
+			{
+				"name": "One Piece Burning Blood Collector's Edition beauty shot",
+				"image": "images/digital/OPBB_CE_Beautyshot_EN_All.jpg",
+				"thumb": "images/digital/OPBB_CE_Beautyshot_EN_All.jpg",
+				"description": "Beauty shot to promote the collector's edition of One Piece Burning Blood."
+			},
+			{
+				"name": "One Piece Burning Blood Deluxe Edition Beauty Shot",
+				"image": "images/digital/OPBB_DE_Preorder_Beautyshot_EN.jpg",
+				"thumb": "images/digital/OPBB_DE_Preorder_Beautyshot_EN.jpg",
+				"description": "Beauty shot to promote the deluxe edition of One Piece Burning Blood."
+			},
+			{
+				"name": "One Piece Burning Blood Pre-Order beauty shot",
+				"image": "images/digital/OPBB_Preorder_Beautyshot_EN.jpg",
+				"thumb": "images/digital/OPBB_Preorder_Beautyshot_EN.jpg",
+				"description": "Beauty shot to promote the pre-order bonuses of One Piece Burning Blood."
+			},
+			{
+				"name": "One Piece Burning Blood split screen frame banner for Twitch",
+				"image": "images/digital/OPBB_Split_screen.jpg",
+				"thumb": "images/digital/OPBB_Split_screen.jpg",
+				"description": "Twitch live stream split screen frame banner to promote One Piece Burning Blood's Gold Luffy."
+			},
+			{
+				"name": "One Piece Pirate Warriors 3 PSN DLC images",
+				"image": "images/digital/OPPW3_DLC.jpg",
+				"thumb": "images/digital/OPPW3_DLC_tn.jpg",
+				"description": "Group of all of the DLC images for One Piece Pirate Warriors 3 created for submission to Sony."
+			},
+			{
+				"name": "One Piece Pirate Warriors 3 PSN images",
+				"image": "images/digital/OPPW3_PSN.jpg",
+				"thumb": "images/digital/OPPW3_PSN_tn.jpg",
+				"description": "Group of all of the images for One Piece Pirate Warriors 3 created for submission to Sony."
+			},
+			{
+				"name": "One Piece Unlimited World Red Day 1 Beauty Shot",
+				"image": "images/digital/opuwr-beauty-day1.jpg",
+				"thumb": "images/digital/opuwr-beauty-day1_tn.jpg",
+				"description": "Beauty shot to promote the Day 1 edition bonuses for One Piece Unlimited World Red."
+			},
+			{
+				"name": "Project CARS Pre-Order Beauty Shot",
+				"image": "images/digital/Project_CARS_PreOrder_Beauty_Shot_Metal_Case_US2.jpg",
+				"thumb": "images/digital/Project_CARS_PreOrder_Beauty_Shot_Metal_Case_US2.jpg",
+				"description": "Beauty shot to promote the pre-order bonus for Project CARS."
+			},
+			{
+				"name": "Project X Zone 2 Eurogaer skin",
+				"image": "images/digital/PXZ2_eurogamer_2200x1218_150k_PREVIEW.jpg",
+				"thumb": "images/digital/PXZ2_eurogamer_2200x1218_150k_PREVIEW_tn.jpg",
+				"description": "A website skin to promote Project X Zone 2 on Eurogamer's website."
+			},
+			{
+				"name": "Project Cross Zone 2 GameStop skin",
+				"image": "images/digital/PXZ2_Gamestop_1600x1000_140k_PREVIEW.jpg",
+				"thumb": "images/digital/PXZ2_Gamestop_1600x1000_140k_PREVIEW_tn.jpg",
+				"description": "A website skin to promote Project X Zone 2 on GameStop's website."
+			},
+			{
+				"name": "Project Cross Zone 2 social banners",
+				"image": "images/digital/PXZ2_social.jpg",
+				"thumb": "images/digital/PXZ2_social_tn.jpg",
+				"description": "Social banners to promote Project Cross X Zone on Facebook, Twitter, Youtube and Tumblr."
+			},
+			{
+				"name": "Sword Art Online Lost Song digital pre-order beauty shot",
+				"image": "images/digital/SAOLS_Digital_Prepurchase_BeautyShot_EN.jpg",
+				"thumb": "images/digital/SAOLS_Digital_Prepurchase_BeautyShot_EN_tn.jpg",
+				"description": "Beauty shot to promote the digital pre-order bonus of Sword Art Online Lost Song."
+			},
+			{
+				"name": "Sword Art Online Lost Song Facebook promo",
+				"image": "images/digital/SAOLS_Facebook_PreOrder_BeautyShot_EN.jpg",
+				"thumb": "images/digital/SAOLS_Facebook_PreOrder_BeautyShot_EN_tn.jpg",
+				"description": "Banner to promote the Sword Art Online Lost Song pre-order bonuses on Facebook."
+			},
+			{
+				"name": "Sword Art Online Lost Song Beauty Shot",
+				"image": "images/digital/SAOLS_Preorder_GS_BeautyShot_EN.jpg",
+				"thumb": "images/digital/SAOLS_Preorder_GS_BeautyShot_EN_tn.jpg",
+				"description": "Beauty shot to promote the Sword Art Online Lost Song GameStop exclusive pre-order bonus."
+			},
+			{
+				"name": "Tales of Zestiria pre-order GameStop beauty shot",
+				"image": "images/digital/ToZ_Preorder_GS_BeautyShot_EN.jpg",
+				"thumb": "images/digital/ToZ_Preorder_GS_BeautyShot_EN_tn.jpg",
+				"description": "Tales of Zestiria pre-order beauty shot promoting DLC and exclusive GameStop strategy videos."
+			},
+			{
+				"name": "Digimon Story Cyber Sleuth promo banner",
+				"image": "images/digital/DSCS_MCS_1120x1500_an.jpg",
+				"thumb": "images/digital/DSCS_MCS_1120x1500_an_tn.jpg",
+				"description": "Promo banner for Digimon Story Cyber Sleuth"
+			},
+			{
+				"name": "Dynasty Warriors Gundam Reborn Pre-Order promo banner",
+				"image": "images/digital/DWGR_pre-order-now.jpg",
+				"thumb": "images/digital/DWGR_pre-order-now_tn.jpg",
+				"description": "Small beauty shot to promote the pre-order of Dynasty Warriors Gundam Reborn."
+			},
+			{
+				"name": "Box Fronts",
+				"image": "images/digital/boxfronts.jpg",
+				"thumb": "images/digital/boxfronts_tn.jpg",
+				"description": "Some examples of recent box fronts I made for Naruto Storm 4, Sword Art Online Hollow Realization and Tales of Berseria."
+			},
+			{
+				"name": "Flash Banner Ads",
+				"image": "images/digital/web_banner.jpg",
+				"thumb": "images/digital/web_banner_tn.png",
+				"description": "Flash banner ads I made before the death of Flash for One Piece Romance Dawn, One Piece Unlimited World Red, PAC-MAN CEDX+, JoJo's Bizarre Adventure All Star Battle and Dynasty Warriors Gundam Reborn."
+			}
+		]
+		
+	}
+]

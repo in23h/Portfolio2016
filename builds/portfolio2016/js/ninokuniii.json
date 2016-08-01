@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Ni no Kuni II Website",
+		"description": "Ni no Kuni II website I made for the game's announcement using Photoshop, HTML and CSS.",
+		"year": 2016,
+		"category": "web",
+		"client": ["BANDAI NAMCO Entertainment"],
+		"URL": "http://ninokunigame.com/",
+		"skills": ["Photoshop", "CSS", "HTML"],
+		"image": "images/web/ninokuni_ii.jpg",
+		"content": null
+		
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Asterix the Gaul Checklist app - AngularJS",
+		"description": "A mobile checklist app I made using AngularJS and Ionic. It uses local storage so you can check which books you have and save it locally. It is best viewed on a mobile screen.",
+		"year": 2016,
+		"category": "web",
+		"client": ["Personal"],
+		"URL": "http://in23h.com/asterix-ng/",
+		"skills": ["AngularJs", "Ionic", "JavaScript", "HTML", "CSS"],
+		"image": "images/web/asterixCheckList_ng.jpg",
+		"content": null
+		
+	}
+]

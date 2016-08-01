@@ -1,0 +1,21 @@
+<div id="sp">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-9 col-lg-offset-1 col-md-9 col-md-offset-1">
+				<h2><span class="headerblue">Jeremy Caine</span> Portfolio</h2>
+				<h4>Front End Web Developer / Designer</h4>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="portfolio">
+	<div class="container">
+		<div class="row mt">
+			<div class="col-lg-4 col-md-4 col-xs-12 gallery centered" ng-repeat="item in portfolio">
+				<a ui-sref="home.itemDetails({id: item._id})"><img ng-src="{{item.thumbnail}}" class="img-responsive"></a>
+				<h3>{{item.type}}</h3>
+				{{item.title}}
+			</div>
+		</div>
+	</div>
+</div>

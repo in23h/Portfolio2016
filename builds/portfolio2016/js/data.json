@@ -1,0 +1,56 @@
+[
+	{
+		"_id": "digital",
+		"title": "Banners, Promos, Skins, etc.",
+		"type": "Digital",
+		"thumbnail": "images/digital/NSUNS4_Mockup_Preorder_GS2.jpg"
+	},
+	{
+		"_id": "print",
+		"title": "Posters, Retail Promos, etc.",
+		"type": "Print",
+		"thumbnail": "images/posters/TK7_WW_Poster_tn.jpg"
+	},
+	{
+		"_id": "store",
+		"title": "Sale Promos, Event Promos, etc.",
+		"type": "Store",
+		"thumbnail": "images/store/FreeShipping_HP_B_tn.jpg"
+	},
+	{
+		"_id": "asterixCheckList_ng",
+		"title": "Asterix the Gaul Checklist app",
+		"type": "AngularJS | Ionic",
+		"thumbnail": "images/web/asterixCheckList_ng_tn.jpg"
+	},
+	{
+		"_id": "asterixCheckList_bb",
+		"title": "Asterix the Gaul Checklist app",
+		"type": "Backbone.js | Bootstrap",
+		"thumbnail": "images/web/asterixCheckList_bb.jpg"
+	},
+	{
+		"_id": "labpan_jquery",
+		"title": "Labradford / Pan•American Site",
+		"type": "jQuery",
+		"thumbnail": "images/web/labpan_jquery_tn.jpg"
+	},
+	{
+		"_id": "tk_design",
+		"title": "Tenkai Knights website design",
+		"type": "UI",
+		"thumbnail": "images/web/tenkai_knights_web_design.jpg"
+	},
+	{
+		"_id": "ninokuniii",
+		"title": "Ni no Kuni II website",
+		"type": "UI/UX",
+		"thumbnail": "images/web/ninokuni_ii.jpg"
+	},
+	{
+		"_id": "labpan_flash",
+		"title": "Labradford / Pan•American Site",
+		"type": "Flash",
+		"thumbnail": "images/web/labpan_flash_tn.jpg"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Labradford / Pan•American Site - Flash",
+		"description": "This is a Labradford/Pan•American fan site I made using Flash years ago. I remade the site using HTML, CSS, and Javascript/jQuery here.",
+		"year": 2007,
+		"category": "web",
+		"client": ["Personal"],
+		"URL": "http://www.in23h.com/media/portfolio/labradford/",
+		"skills": ["Photoshop", "CSS", "JavaScript", "jQuery"],
+		"image": "images/web/labpan_flash.jpg",
+		"content": null
+		
+	}
+]

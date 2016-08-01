@@ -1,0 +1,35 @@
+<div class="backLink">
+	<a ui-sref="home"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
+</div>
+<div id="sp">
+	<div class="container">
+		<div class="row centered">
+			<div class="col-lg-8 col-lg-offset-2">
+				<h2>{{portfolioItem.name}}</h2>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="lg">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-7 col-lg-offset-1 desc">
+				<p>{{portfolioItem.description}}</p>
+				<img class="img-responsive" ng-src="{{portfolioItem.image}}" alt="" ng-show="portfolioItem.image">
+			</div>
+
+			<div class="col-lg-4 desc">
+				<h5><strong>Client:</strong> <span ng-repeat="client in portfolioItem.client">{{client}}{{$last ? '' : ($index==portfolioItem.client.length-2) ? ' and ' : ', '}}</span></h5>
+				<h5><strong>Year:</strong> {{portfolioItem.year}}</h5>
+				<h5><strong>Skills:</strong> <span ng-repeat="skill in portfolioItem.skills">{{skill}}{{$last ? '' : ($index==portfolioItem.skills.length-2) ? ' and ' : ', '}}</span></h5>
+				<h5 ng-show="portfolioItem.URL"><strong>URL:</strong> <a href="{{portfolioItem.URL}}" target="_blank"><i class="fa fa-link"></i> Visit Site</a></p>
+			</div>
+		</div>
+		<div class="row mt" ng-show="portfolioItem.content">
+			<div class="col-lg-4 col-md-4 col-xs-12 gallery" ng-repeat="content in portfolioItem.content">
+				<a ng-click="open($index)"><img ng-src="{{content.thumb}}" class="img-responsive"></a>
+			</div>
+		</div>
+	</div>
+</div>

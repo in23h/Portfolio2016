@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Labradford / Pan•American Site - jQuery",
+		"description": "While studying jQuery, I decided to try to remake the Labradford/Pan•American fan site using HTML, CSS, and Javascript/jQuery. I originally made it in Flash, but was able to replicate a lot of the same animation. I left out the video section and the music that plays.",
+		"year": 2013,
+		"category": "web",
+		"client": ["Personal"],
+		"URL": "http://www.in23h.com/labpan/",
+		"skills": ["Photoshop", "CSS", "JavaScript", "jQuery"],
+		"image": "images/web/labpan_jquery.jpg",
+		"content": null
+		
+	}
+]

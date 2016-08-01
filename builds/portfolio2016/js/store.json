@@ -1,0 +1,153 @@
+[
+	{
+		"name": "BANDAI NAMCO Store Banners",
+		"description": "Some examples of the many banners I created for the BANDAI NAMCO Store.",
+		"year": "2013~2016",
+		"category": "design",
+		"client": ["BANDAI NAMCO Entertainment"],
+		"URL": null,
+		"skills": ["Photoshop", "Illustrator"],
+		"image": null,
+		"content": [
+			{
+				"name": "Dark Souls III patch promo",
+				"image": "images/store/DSIII_PRE-ORDER.png",
+				"thumb": "images/store/DSIII_PRE-ORDER.png",
+				"description": "Store banner to promote exclusive Dark Souls III patches."
+			},
+			{
+				"name": "Free shipping promo",
+				"image": "images/store/FreeShipping_HP_B.png",
+				"thumb": "images/store/FreeShipping_HP_B_tn.jpg",
+				"description": "Store banner to promote free shipping."
+			},
+			{
+				"name": "One Piece Burning Blood metal case promo",
+				"image": "images/store/OPBB_PRE-ORDER.png",
+				"thumb": "images/store/OPBB_PRE-ORDER.png",
+				"description": "Store banner to promote the One Piece Burning Blood metal case."
+			},
+			{
+				"name": "Tales of Zestiria key chain promo",
+				"image": "images/store/TOZ_PRE-ORDER.png",
+				"thumb": "images/store/TOZ_PRE-ORDER.png",
+				"description": "Store banner to promote the Tales of Zestiria metal case."
+			},
+			{
+				"name": "Anime Expo 2015 store banner",
+				"image": "images/store/AX15_10off_TABLET_HPB.jpg",
+				"thumb": "images/store/AX15_10off_TABLET_HPB.jpg",
+				"description": "Store banner to promote Anime Expo 2015 sales."
+			},
+			{
+				"name": "Anime Expo 2015 Tales of Xillia 2 store banner",
+				"image": "images/store/AX15_ToX2_TABLET_HPB_social.jpg",
+				"thumb": "images/store/AX15_ToX2_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote the Anime Expo 2015 sale of Tales of Xillia 2."
+			},
+			{
+				"name": "Black Friday 2014 store banner",
+				"image": "images/store/BF_2014_a_homepage_banner_TABLET.jpg",
+				"thumb": "images/store/BF_2014_a_homepage_banner_TABLET.jpg",
+				"description": "Store banner to promote Black Friday 2014 sales."
+			},
+			{
+				"name": "Unused Black Friday 2014 store banner",
+				"image": "images/store/BF_2014_Collectors_homepage_banner_TABLET.jpg",
+				"thumb": "images/store/BF_2014_Collectors_homepage_banner_TABLET.jpg",
+				"description": "Unused store banner to promote Black Friday 2014 sales."
+			},
+			{
+				"name": "Unused Steam sale banner",
+				"image": "images/store/CM_2014_SuperSteamSale_homepage_banner_TABLET.jpg",
+				"thumb": "images/store/CM_2014_SuperSteamSale_homepage_banner_TABLET.jpg",
+				"description": "Unused store banner to promote a Steam sale. I went with a steam-punk style, but was requested this change to a more simple style like a Macys ad. I still like how this turned out."
+			},
+			{
+				"name": "Play Anime sale banner",
+				"image": "images/store/DotMAnimeSale_TABLET_HPB.jpg",
+				"thumb": "images/store/DotMAnimeSale_TABLET_HPB.jpg",
+				"description": "Store banner to promote the Play Anime games."
+			},
+			{
+				"name": "Nintendo 3DS sale banner",
+				"image": "images/store/DotW_3DSSale_TABLET_HPB_social.jpg",
+				"thumb": "images/store/DotW_3DSSale_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote a Nintendo 3DS game sale with emphasis on Tales of the Abyss."
+			},
+			{
+				"name": "Dragon Ball Celebration store banner",
+				"image": "images/store/DotW_DBZ_Sale_TABLET_HPB_social.jpg",
+				"thumb": "images/store/DotW_DBZ_Sale_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote Dragon Ball games."
+			},
+			{
+				"name": "Digital Games sale banner",
+				"image": "images/store/DotW_Digital75_TABLET_HPB_social.jpg",
+				"thumb": "images/store/DotW_Digital75_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote digital games with emphasis on Dark Souls II Scholar of the First Sin."
+			},
+			{
+				"name": "Dragon Ball Xenoverse Flash sale banner",
+				"image": "images/store/FSF_DBX30_TABLET_HPB_social.jpg",
+				"thumb": "images/store/FSF_DBX30_TABLET_HPB_social.jpg",
+				"description": "Flash sale store banner for Dragon Ball Xenoverse."
+			},
+			{
+				"name": "Holiday 2014 store banner",
+				"image": "images/store/Holiday_Special_2014_A_homepage_banner_TABLET.jpg",
+				"thumb": "images/store/Holiday_Special_2014_A_homepage_banner_TABLET.jpg",
+				"description": "Store banner to promote the holiday 2014 sale."
+			},
+			{
+				"name": "Christmas 2014 Steam sale banner",
+				"image": "images/store/Holiday_Special_2014_SteamSale_homepage_bannerTABLET.jpg",
+				"thumb": "images/store/Holiday_Special_2014_SteamSale_homepage_bannerTABLET.jpg",
+				"description": "Store banner to promote the CHristmas Steam sale of 2014."
+			},
+			{
+				"name": "JoJo's Bizarre Adventure All Star Battle store banner",
+				"image": "images/store/JoJos_DotW_TABLET_HPB_social.jpg",
+				"thumb": "images/store/JoJos_DotW_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote JoJo's Bizarre Adventure All Star Battle sale."
+			},
+			{
+				"name": "New Year Flash sale banner",
+				"image": "images/store/NY_Flash_Sale_TABLET_HPB_social.jpg",
+				"thumb": "images/store/NY_Flash_Sale_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote the new year's flash sale."
+			},
+			{
+				"name": "New York Comic Con 2014 sale banner",
+				"image": "images/store/NYCC14_homepage_bannerTABLET2.jpg",
+				"thumb": "images/store/NYCC14_homepage_bannerTABLET2.jpg",
+				"description": "Store banner to promote the New York Comic Con 2014 sales."
+			},
+			{
+				"name": "New York Comic Con 2015 Anime sale banner 1",
+				"image": "images/store/NYCC15_AnimeSale1_TABLET_HPB_social.jpg",
+				"thumb": "images/store/NYCC15_AnimeSale1_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote the New York Comic Con 2015 anime game sale."
+			},
+			{
+				"name": "New York Comic Con 2015 Anime sale banner 2",
+				"image": "images/store/NYCC15_AnimeSale2_TABLET_HPB_social.jpg",
+				"thumb": "images/store/NYCC15_AnimeSale2_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote the New York Comic Con 2015 anime game sale."
+			},
+			{
+				"name": "New York Comic Con 2015 Tales Of sale banner",
+				"image": "images/store/NYCC15_TalesOfSale1_TABLET_HPB_social.jpg",
+				"thumb": "images/store/NYCC15_TalesOfSale1_TABLET_HPB_social.jpg",
+				"description": "Store banner to promote the New York Comic Con 2015 Tales Of game sale."
+			},
+			{
+				"name": "Tsume Naruto Statue store banner",
+				"image": "images/store/TSUME_Statues_TABLET_HPB_social.jpg",
+				"thumb": "images/store/TSUME_Statues_TABLET_HPB_social.jpg",
+				"description": "Sore banner to promote the Tsume Naruto statues."
+			}
+		]
+		
+	}
+]

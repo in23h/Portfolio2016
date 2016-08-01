@@ -1,0 +1,153 @@
+[
+	{
+		"name": "Posters, Retail Promos, etc.",
+		"description": "Some examples of the many posters and other print items that appeared at events, as giveaways and in stores.",
+		"year": "2013~2016",
+		"category": "design",
+		"client": ["BANDAI NAMCO Entertainment"],
+		"URL": null,
+		"skills": ["Photoshop", "Illustrator", "inDesign"],
+		"image": null,
+		"content": [
+			{
+				"name": "Tekken 7 Wizard World event poster",
+				"image": "images/posters/TK7_WW_Poster.jpg",
+				"thumb": "images/posters/TK7_WW_Poster_tn.jpg",
+				"description": "Wizard World 2016 poster to promote the Tekken 7 activites at the event."
+			},
+			{
+				"name": "Digimon All-Star Rumble Pax Prime 2014 poster",
+				"image": "images/posters/digimon_poster.jpg",
+				"thumb": "images/posters/digimon_poster_tn.jpg",
+				"description": "Pax Prime 2014 event poster I created using Illustrator to promote Digimon All-Star Rumble in the style of old boxing promotional posters."
+			},
+			{
+				"name": "Digimon All-Star Rumble NY Comic Con 2014 poster",
+				"image": "images/posters/digimon_poster2.jpg",
+				"thumb": "images/posters/digimon_poster2_tn.jpg",
+				"description": "NY Comic Con 2014 event poster I created using Illustrator to promote Digimon All-Star Rumble in the style of old boxing promotional posters."
+			},
+			{
+				"name": "E3 2016 Tekken 7 pull-up banner",
+				"image": "images/posters/PUB_TK7_Preview.jpg",
+				"thumb": "images/posters/PUB_TK7_Preview_tn.jpg",
+				"description": "Large pull-up banner to promote Tekken 7 at E3 2016."
+			},
+			{
+				"name": "E3 2016 Tales of Berseria pull-up banner",
+				"image": "images/posters/PUB_ToB_Preview.jpg",
+				"thumb": "images/posters/PUB_ToB_Preview_tn.jpg",
+				"description": "Large pull-up banner to promote Tales of Berseria at E3 2016."
+			},
+			{
+				"name": "E3 2016 Dragon Ball Xenoverse 2 pull-up banner",
+				"image": "images/posters/PUB_DBX2_Preview.jpg",
+				"thumb": "images/posters/PUB_DBX2_Preview_tn.jpg",
+				"description": "Large pull-up banner to promote Dragon Ball Xenoverse 2 at E3 2016."
+			},
+			{
+				"name": "E3 2016 Sword Art Online Hollow Realization pull-up banner",
+				"image": "images/posters/PUB_SAO_Preview.jpg",
+				"thumb": "images/posters/PUB_SAO_Preview_tn.jpg",
+				"description": "Large pull-up banner to promote Sword Art Online Hollow Realization at E3 2016."
+			},
+			{
+				"name": "Anime Expo 2016 store promo poster",
+				"image": "images/posters/AX16_PromoBanner.jpg",
+				"thumb": "images/posters/AX16_PromoBanner_tn.jpg",
+				"description": "Large 6' store promo poster used at Anime Expo 2016."
+			},
+			{
+				"name": "San Diego Comic Con 2016 store promo poster",
+				"image": "images/posters/SDCC16_PromoBanner.jpg",
+				"thumb": "images/posters/SDCC16_PromoBanner_tn.jpg",
+				"description": "Large 6' store promo poster used at San Diego Comic Con 2016."
+			},
+			{
+				"name": "Power Rangers Super Mega Force Nintendo World Store poster",
+				"image": "images/posters/NOA_Store_Event_Window_Banners2.jpg",
+				"thumb": "images/posters/NOA_Store_Event_Window_Banners2_tn.jpg",
+				"description": "Large poster that hung in the Nintendo World Store windows to promote Power Rangers Super Mega Force."
+			},
+			{
+				"name": "PAC-MAN and the Ghostly Adventures 2 Nintendo World Store poster",
+				"image": "images/posters/NOA_Store_Event_Window_Banners3.jpg",
+				"thumb": "images/posters/NOA_Store_Event_Window_Banners3_tn.jpg",
+				"description": "Large poster that hung in the Nintendo World Store windows to promote PAC-MAN and the Ghostly Adventures 2."
+			},
+			{
+				"name": "Tenkai Knights Nintendo World Store poster",
+				"image": "images/posters/NOA_Store_Event_Window_Banners4.jpg",
+				"thumb": "images/posters/NOA_Store_Event_Window_Banners4_tn.jpg",
+				"description": "Large poster that hung in the Nintendo World Store windows to promote Tenkai Knights."
+			},
+			{
+				"name": "Naruto Storm 4 GameStop pre-order poster",
+				"image": "images/posters/NS4_Giveaway_Poster_11x18.jpg",
+				"thumb": "images/posters/NS4_Giveaway_Poster_11x18_tn.jpg",
+				"description": "Naruto Storm 4 GameStop poster given out with pre-orders of the game."
+			},
+			{
+				"name": "Godzilla giveaway poster",
+				"image": "images/posters/Godzilla_Poster_24x36_GS_preview.jpg",
+				"thumb": "images/posters/Godzilla_Poster_24x36_GS_preview_tn.jpg",
+				"description": "Giveaway poster for Godzilla."
+			},
+			{
+				"name": "Naruto Storm 4 giveaway poster",
+				"image": "images/posters/NSUNS4_Poster_EN-FR_FINAL.jpg",
+				"thumb": "images/posters/NSUNS4_Poster_EN-FR_FINAL_tn.jpg",
+				"description": "Giveaway poster for Naruto Storm 4."
+			},
+			{
+				"name": "Tales of Hearts R giveaway poster",
+				"image": "images/posters/TalesOfHeartsR_18inx24in_Poster_GameStop.jpg",
+				"thumb": "images/posters/TalesOfHeartsR_18inx24in_Poster_GameStop_tn.jpg",
+				"description": "Giveaway poster for Tales of Hearts R."
+			},
+			{
+				"name": "Project CARS event giveaway poster",
+				"image": "images/posters/ProjectCARS_Poster_final.jpg",
+				"thumb": "images/posters/ProjectCARS_Poster_final_tn.jpg",
+				"description": "Project CARS poster given to people at an event."
+			},
+			{
+				"name": "BNG Store tote bag event poster",
+				"image": "images/posters/BNGStore_Tote.jpg",
+				"thumb": "images/posters/BNGStore_Tote_tn.jpg",
+				"description": "Event poster promoting the free BNG Store tote bag with purchase."
+			},
+			{
+				"name": "Sebastien Loeb Rally Evo tournament event poster",
+				"image": "images/posters/SLRally_Booth_Poster.jpg",
+				"thumb": "images/posters/SLRally_Booth_Poster_tn.jpg",
+				"description": "Sebastien Loeb Rally Evo poster promoting a special tournament at an event. This was before the game switched publishers."
+			},
+			{
+				"name": "GameStop Show guide flyer",
+				"image": "images/print/Gamestop_Show_Guide_8x8_v2.jpg",
+				"thumb": "images/print/Gamestop_Show_Guide_8x8_v2_tn.jpg",
+				"description": "A flyer used at the GameStop Show to inform people about the booth."
+			},
+			{
+				"name": "Lords of the Fallen retail items",
+				"image": "images/print/LotF-retailer.jpg",
+				"thumb": "images/print/LotF-retailer_tn.jpg",
+				"description": "Lords of the Fallen retail items including Walmart blade, GameStop \"Cash Wrap\", Best Buy pre-order card and retail promotional poster."
+			},
+			{
+				"name": "Naruto Storm 4 Season Pass sell sheet",
+				"image": "images/print/NSUNS4_Season_Pass_Sell_Sheet.jpg",
+				"thumb": "images/print/NSUNS4_Season_Pass_Sell_Sheet_tn.jpg",
+				"description": "A Naruto Storm 4 Season pass sell sheet made for GameStop employees to become knowledgable about the season pass contents."
+			},
+			{
+				"name": "Naruto Storm 4 Target pre-order cards.",
+				"image": "images/print/NSUNS4_Target_DLC_Card-1.jpg",
+				"thumb": "images/print/NSUNS4_Target_DLC_Card-1_tn.jpg",
+				"description": "Naruto Storm 4 Target pre-order cards."
+			}
+		]
+		
+	}
+]
